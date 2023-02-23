@@ -26,7 +26,7 @@ Please do not include any sensitive or personal information in your project file
 ### Code of Conduct  
 This repository is governed by the Contributor Covenant Code of Conduct. By participating in this project, you are expected to uphold this code. Please report any unacceptable behavior to the repository owners.  
 
-### Before you go, Please remember the last 10 days we shall build projects with whatever we learnt. HAVE FUN!
+#### Before you go, Please remember the last 10 days we shall build projects with whatever we learnt. HAVE FUN!
 
 ### License
 This repository is licensed under the MIT License. By contributing to this repository, you agree to license your contributions under this license.

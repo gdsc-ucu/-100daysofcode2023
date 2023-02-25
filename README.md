@@ -1,4 +1,4 @@
-# #100daysofcode Repository
+# #100daysofcode Repository😌
 Welcome to the #100daysofcode repository, a collection of projects completed by individuals who have taken on the challenge of coding for 100 days straight. This repository showcases a wide range of projects that cover various languages, frameworks, and topics. Whether you're looking for inspiration for your own coding journey or want to contribute your own project, this repository is the perfect place to do so.
 
 ### How we shall do it?
